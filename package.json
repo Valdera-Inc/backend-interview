@@ -1,0 +1,28 @@
+{
+  "name": "backend-interview",
+  "version": "1.0.0",
+  "description": "Valdera backend interview",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valdera-Inc/backend-interview.git"
+  },
+  "keywords": [
+    "Valdera",
+    "Backend",
+    "Interview"
+  ],
+  "author": "Valdera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valdera-Inc/backend-interview/issues"
+  },
+  "homepage": "https://github.com/Valdera-Inc/backend-interview#readme"
+}
